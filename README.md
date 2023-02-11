@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Preview
-![](https://github.com/birdbone/flutter_chat_app_ui/blob/master/chat_app.png) |
+![](https://github.com/birdbone/flutter_chat_app_ui/blob/master/chat_app.png)
 
 ## Getting Started
 
