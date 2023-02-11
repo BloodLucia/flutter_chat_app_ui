@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Preview
+![](https://github.com/birdbone/flutter_chat_app_ui/blob/master/chat_app.png) |
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
